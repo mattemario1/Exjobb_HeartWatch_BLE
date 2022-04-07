@@ -1,2 +1,2 @@
-# Exjobb_HeartWatch_BLE
-Exjobb för en EKG som streamar data genom BLE
+# BLE_Test
+Här görs tester för BLE på thingy
